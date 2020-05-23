@@ -1,5 +1,4 @@
-console.log("Alive and pumping")
-console.log("hey now")
+
 const express=require("express")
 const app=express()
 const cors=require('cors')
